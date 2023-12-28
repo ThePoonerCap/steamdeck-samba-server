@@ -100,9 +100,9 @@ directory mask = 0777
 force user = deck
 force group = deck
 
-[mmcblk0p1]
+[SDDeck]
 comment = Steam apps directory on SD card
-path = /run/media/mmcblk0p1/
+path = /run/media/
 browseable = yes
 read only = no
 create mask = 0777
